@@ -1,0 +1,13 @@
+name: adentureworks-env
+
+dependencies:
+  - numpy
+  - pandas
+  - pip
+  - python
+  - matplotlib
+  - jupyter
+  - pymysql
+  - ipython-sql
+  - mysqlclient
+  - xml
